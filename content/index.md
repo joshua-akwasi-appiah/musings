@@ -11,6 +11,7 @@ description: A digital garden by Joshua Akwasi Appiah.
     <p class="musings-lede">A place for notes, questions, experiments and ideas that are still taking shape.</p>
 
     <p>My CV tells you some of what I have done. Musings is a place to see how I think, learn, question, test ideas and make connections.</p>
+
   </div>
 
   <img class="musings-sprout" src="./static/musings-sprout.png" alt="A growing sprout" />

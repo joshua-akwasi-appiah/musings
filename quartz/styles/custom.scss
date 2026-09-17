@@ -50,7 +50,11 @@ a.internal {
   border: 1px solid var(--lightgray);
   border-radius: 1rem;
   background:
-    radial-gradient(circle at 85% 20%, color-mix(in srgb, var(--tertiary) 16%, transparent), transparent 35%),
+    radial-gradient(
+      circle at 85% 20%,
+      color-mix(in srgb, var(--tertiary) 16%, transparent),
+      transparent 35%
+    ),
     color-mix(in srgb, var(--light) 90%, var(--lightgray));
 }
 
