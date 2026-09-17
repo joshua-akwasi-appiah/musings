@@ -1,3 +1,52 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Musings: an understated, paper-and-ink visual language.
+
+body {
+  line-height: 1.7;
+}
+
+article {
+  > h1 {
+    font-family: var(--headerFont);
+    font-weight: 600;
+    letter-spacing: -0.025em;
+    line-height: 1.1;
+  }
+
+  > h2 {
+    font-family: var(--headerFont);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin-top: 2.4rem;
+    padding-top: 0.55rem;
+    border-top: 1px solid var(--lightgray);
+  }
+
+  > ul {
+    padding-left: 1.15rem;
+
+    > li {
+      margin: 0.55rem 0;
+    }
+  }
+}
+
+a.internal {
+  border-radius: 0.2rem;
+}
+
+.page {
+  padding-top: 1.5rem;
+}
+
+.explorer,
+.graph {
+  border-color: var(--lightgray);
+}
+
+@media all and ($mobile) {
+  .page {
+    padding-top: 0.75rem;
+  }
+}
