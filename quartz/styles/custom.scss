@@ -53,7 +53,7 @@ a.internal {
 
 .musings-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 11.5rem;
+  grid-template-columns: minmax(0, 1fr);
   align-items: center;
   gap: 2rem;
   margin: 0.5rem 0 2.75rem;
@@ -101,12 +101,6 @@ a.internal {
 .musings-hero-copy > p:last-child {
   max-width: 36rem;
   margin-bottom: 0;
-}
-
-.musings-sprout {
-  width: 100%;
-  filter: drop-shadow(0 1rem 1.2rem color-mix(in srgb, var(--dark) 14%, transparent));
-  transform: rotate(-4deg);
 }
 
 .musings-introduction {
@@ -263,7 +257,6 @@ blockquote {
   }
 
   .musings-hero {
-    grid-template-columns: 1fr 5.5rem;
     gap: 1rem;
     padding: 1.5rem;
     border-radius: 0.75rem;

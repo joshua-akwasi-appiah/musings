@@ -14,7 +14,6 @@ description: A digital garden by Joshua Akwasi Appiah.
 
   </div>
 
-  <img class="musings-sprout" src="./static/musings-sprout-clay.png" alt="A growing sprout" />
 </section>
 
 <section class="musings-introduction">
