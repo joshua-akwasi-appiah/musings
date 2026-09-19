@@ -21,25 +21,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf6f0"
-        lightgray: "#ece4d8"
-        gray: "#b3a48f"
-        darkgray: "#4a4038"
-        dark: "#1e1a16"
-        secondary: "#8a7560"
-        tertiary: "#c17a52"
-        highlight: rgba(193, 122, 82, 0.10)
-        textHighlight: "#e0b56e77"
+        light: "#fff8ed"
+        lightgray: "#f3e5d0"
+        gray: "#9c8876"
+        darkgray: "#443b36"
+        dark: "#1d2b45"
+        secondary: "#245b93"
+        tertiary: "#e76f51"
+        highlight: rgba(231, 111, 81, 0.16)
+        textHighlight: "#f2c14e99"
       darkMode:
-        light: "#1e1a16"
-        lightgray: "#2b241f"
-        gray: "#8a7c6c"
-        darkgray: "#d8cfc2"
-        dark: "#faf6f0"
-        secondary: "#b09880"
-        tertiary: "#d99568"
-        highlight: rgba(217, 149, 104, 0.14)
-        textHighlight: "#e0b56e88"
+        light: "#152238"
+        lightgray: "#223451"
+        gray: "#9baac0"
+        darkgray: "#e4e9f1"
+        dark: "#fff8ed"
+        secondary: "#90c5f0"
+        tertiary: "#ff8b6b"
+        highlight: rgba(255, 139, 107, 0.2)
+        textHighlight: "#f2c14e99"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -69,7 +69,7 @@ plugins:
       parseTags: true
       parseArrows: true
       parseBlockReferences: true
-      enableInHtmlEmbed: false
+      enableInHtmlEmbed: true
       enableYouTubeEmbed: true
       enableVideoEmbed: true
       enableCheckbox: true

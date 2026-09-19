@@ -1,6 +1,18 @@
 @use "./variables.scss" as *;
 
-// Musings: an understated, paper-and-ink visual language.
+// Musings: an energetic editorial palette, grounded by ink blue.
+
+:root {
+  --musings-gold: #f2c14e;
+  --musings-violet: #7667c8;
+  --musings-sky: #d8edff;
+}
+
+:root[saved-theme="dark"] {
+  --musings-gold: #ffd166;
+  --musings-violet: #a99ef2;
+  --musings-sky: #27496d;
+}
 
 body {
   font-size: 1.06rem;
@@ -58,15 +70,30 @@ a.internal {
   gap: 2rem;
   margin: 0.5rem 0 2.75rem;
   padding: 2.5rem;
-  border: 1px solid var(--lightgray);
+  position: relative;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--secondary) 24%, var(--lightgray));
   border-radius: 1rem;
   background:
     radial-gradient(
-      circle at 85% 20%,
-      color-mix(in srgb, var(--tertiary) 18%, transparent),
-      transparent 35%
+      circle at 90% 12%,
+      color-mix(in srgb, var(--tertiary) 38%, transparent),
+      transparent 38%
     ),
-    linear-gradient(135deg, color-mix(in srgb, var(--light) 92%, var(--lightgray)), var(--light));
+    radial-gradient(
+      circle at 8% 100%,
+      color-mix(in srgb, var(--secondary) 24%, transparent),
+      transparent 42%
+    ),
+    linear-gradient(135deg, var(--lightgray), var(--light) 62%);
+}
+
+.musings-hero::before {
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 0.45rem;
+  background: linear-gradient(var(--secondary), var(--tertiary), var(--musings-gold));
+  content: "";
 }
 
 .musings-kicker {
@@ -81,7 +108,7 @@ a.internal {
 
 .musings-hero h1 {
   margin: 0;
-  color: var(--dark);
+  color: var(--secondary);
   font-family: var(--headerFont);
   font-size: clamp(3.25rem, 8vw, 5.75rem);
   font-weight: 600;
@@ -143,9 +170,13 @@ a.internal {
   align-items: start;
   gap: 1rem;
   padding: 1.4rem 1.5rem;
-  border: 1px solid var(--lightgray);
+  border: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray));
   border-radius: 0.75rem;
-  background: var(--lightgray);
+  background: linear-gradient(
+    110deg,
+    color-mix(in srgb, var(--secondary) 9%, var(--lightgray)),
+    var(--lightgray)
+  );
 }
 
 .recent-notes-empty > span {
@@ -178,20 +209,42 @@ a.internal {
   gap: 0.35rem;
   min-height: 7.25rem;
   padding: 1.2rem;
-  border: 1px solid var(--lightgray);
+  border: 1px solid color-mix(in srgb, var(--secondary) 16%, var(--lightgray));
   border-radius: 0.7rem;
+  border-top: 4px solid var(--secondary);
   background: color-mix(in srgb, var(--light) 94%, var(--lightgray));
   color: var(--darkgray);
 }
 
 .garden-path:hover {
   border-color: var(--tertiary);
-  background: color-mix(in srgb, var(--light) 83%, var(--tertiary));
+  background: color-mix(in srgb, var(--light) 78%, var(--tertiary));
   color: var(--dark);
+  transform: translateY(-0.2rem);
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    background 180ms ease;
+}
+
+.garden-path:nth-child(2) {
+  border-top-color: var(--musings-gold);
+}
+
+.garden-path:nth-child(3) {
+  border-top-color: var(--tertiary);
+}
+
+.garden-path:nth-child(4) {
+  border-top-color: var(--musings-violet);
+}
+
+.garden-path:nth-child(5) {
+  border-top-color: color-mix(in srgb, var(--secondary) 58%, var(--musings-gold));
 }
 
 .garden-path > span {
-  color: var(--tertiary);
+  color: var(--secondary);
   font-family: var(--codeFont);
   font-size: 0.75rem;
 }
