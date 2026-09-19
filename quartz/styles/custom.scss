@@ -3,10 +3,15 @@
 // Musings: an understated, paper-and-ink visual language.
 
 body {
-  line-height: 1.7;
+  font-size: 1.06rem;
+  line-height: 1.8;
 }
 
 article {
+  > p {
+    margin: 1.2rem 0;
+  }
+
   > h1 {
     font-family: var(--headerFont);
     font-weight: 600;
@@ -40,6 +45,12 @@ a.internal {
   padding-top: 1.5rem;
 }
 
+.page article a:not(.garden-path) {
+  color: var(--tertiary);
+  text-decoration-color: color-mix(in srgb, var(--tertiary) 45%, transparent);
+  text-underline-offset: 0.18em;
+}
+
 .musings-hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 11.5rem;
@@ -52,10 +63,10 @@ a.internal {
   background:
     radial-gradient(
       circle at 85% 20%,
-      color-mix(in srgb, var(--tertiary) 16%, transparent),
+      color-mix(in srgb, var(--tertiary) 18%, transparent),
       transparent 35%
     ),
-    color-mix(in srgb, var(--light) 90%, var(--lightgray));
+    linear-gradient(135deg, color-mix(in srgb, var(--light) 92%, var(--lightgray)), var(--light));
 }
 
 .musings-kicker {
@@ -94,8 +105,71 @@ a.internal {
 
 .musings-sprout {
   width: 100%;
-  filter: drop-shadow(0 1rem 1.2rem color-mix(in srgb, var(--dark) 18%, transparent));
+  filter: drop-shadow(0 1rem 1.2rem color-mix(in srgb, var(--dark) 14%, transparent));
   transform: rotate(-4deg);
+}
+
+.musings-introduction {
+  max-width: 45rem;
+  margin: 0 0 3.25rem;
+}
+
+.musings-introduction p {
+  margin: 1rem 0;
+}
+
+.recent-notes {
+  margin: 0 0 3.5rem;
+}
+
+.section-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.section-heading h2 {
+  margin: 0;
+  color: var(--dark);
+  font-family: var(--headerFont);
+  font-size: clamp(1.8rem, 4vw, 2.35rem);
+  font-weight: 600;
+  letter-spacing: -0.025em;
+}
+
+.section-heading .musings-kicker {
+  margin: 0;
+}
+
+.recent-notes-empty {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: start;
+  gap: 1rem;
+  padding: 1.4rem 1.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.75rem;
+  background: var(--lightgray);
+}
+
+.recent-notes-empty > span {
+  padding: 0.25rem 0.5rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--tertiary) 15%, var(--light));
+  color: var(--tertiary);
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.recent-notes-empty p {
+  max-width: 35rem;
+  margin: 0;
+  color: var(--darkgray);
 }
 
 .garden-paths {
@@ -146,6 +220,43 @@ a.internal {
   border-color: var(--lightgray);
 }
 
+.explorer-content ul li > a.active,
+.explorer-content ul li > a.is-active {
+  padding: 0.15rem 0.35rem;
+  border-radius: 0.3rem;
+  background: color-mix(in srgb, var(--tertiary) 13%, var(--light));
+  color: var(--tertiary);
+}
+
+.graph > .graph-outer,
+.graph > .global-graph-outer > .global-graph-container {
+  border-color: color-mix(in srgb, var(--tertiary) 20%, var(--lightgray));
+  border-radius: 0.7rem;
+  background: color-mix(in srgb, var(--lightgray) 42%, transparent);
+}
+
+.graph > .graph-outer > .global-graph-icon:hover {
+  background-color: color-mix(in srgb, var(--tertiary) 13%, var(--light));
+}
+
+.callout,
+.callout[data-callout] {
+  --color: var(--tertiary);
+  --border: color-mix(in srgb, var(--tertiary) 45%, var(--lightgray));
+  --bg: color-mix(in srgb, var(--tertiary) 7%, var(--light));
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.3rem 1.25rem;
+  border-left: 3px solid var(--tertiary);
+  border-radius: 0 0.45rem 0.45rem 0;
+  background: color-mix(in srgb, var(--lightgray) 56%, transparent);
+  color: var(--darkgray);
+  font-family: var(--headerFont);
+  font-size: 1.08em;
+}
+
 @media all and ($mobile) {
   .page {
     padding-top: 0.75rem;
@@ -160,6 +271,12 @@ a.internal {
 
   .musings-lede {
     font-size: 1.2rem;
+  }
+
+  .recent-notes-empty {
+    grid-template-columns: 1fr;
+    gap: 0.7rem;
+    padding: 1.2rem;
   }
 
   .garden-paths {

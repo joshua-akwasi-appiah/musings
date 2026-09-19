@@ -14,12 +14,26 @@ description: A digital garden by Joshua Akwasi Appiah.
 
   </div>
 
-  <img class="musings-sprout" src="./static/musings-sprout.png" alt="A growing sprout" />
+  <img class="musings-sprout" src="./static/musings-sprout-clay.png" alt="A growing sprout" />
 </section>
 
-It is not a finished collection. Some notes will be polished. Others will be rough, incomplete or still changing. That is intentional.
+<section class="musings-introduction">
+  <p>It is not a finished collection. Some notes will be polished. Others will be rough, incomplete or still changing. That is intentional.</p>
 
-I work in learning and development, mentor young men and contribute to public engagement around clean air. I am interested in how people learn, how they work together and how ideas can become useful in the real world.
+  <p>I work in learning and development, mentor young men and contribute to public engagement around clean air. I am interested in how people learn, how they work together and how ideas can become useful in the real world.</p>
+</section>
+
+<section class="recent-notes">
+  <div class="section-heading">
+    <p class="musings-kicker">Latest</p>
+    <h2>Recent notes</h2>
+  </div>
+
+  <div class="recent-notes-empty">
+    <span>In progress</span>
+    <p>The first notes are still growing. When they are ready to share, they will begin to appear here.</p>
+  </div>
+</section>
 
 ## Explore the garden
 
