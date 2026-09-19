@@ -4,16 +4,12 @@ description: A digital garden by Joshua Akwasi Appiah.
 ---
 
 <section class="musings-hero">
-  <div class="musings-hero-copy">
-    <p class="musings-kicker">A personal digital garden</p>
-    <h1>Musings</h1>
-
-    <p class="musings-lede">A place for notes, questions, experiments and ideas that are still taking shape.</p>
-
-    <p>My CV tells you some of what I have done. Musings is a place to see how I think, learn, question, test ideas and make connections.</p>
-
-  </div>
-
+<div class="musings-hero-copy">
+<p class="musings-kicker">A personal digital garden</p>
+<h1>Musings</h1>
+<p class="musings-lede">A place for notes, questions, experiments and ideas that are still taking shape.</p>
+<p>My CV tells you some of what I have done. Musings is a place to see how I think, learn, question, test ideas and make connections.</p>
+</div>
 </section>
 
 <section class="musings-introduction">
