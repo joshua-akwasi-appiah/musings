@@ -166,19 +166,20 @@ plugins:
     enabled: true
     options:
       localGraph:
-        repelForce: 0.35
-        centerForce: 0.2
-        linkDistance: 38
+        depth: -1
+        repelForce: 0.3
+        centerForce: 0.15
+        linkDistance: 48
         opacityScale: 0.85
         focusOnHover: true
       globalGraph:
         repelForce: 0.3
         centerForce: 0.15
-        linkDistance: 42
+        linkDistance: 48
         opacityScale: 0.85
         focusOnHover: true
     layout:
-      position: right
+      position: afterBody
       priority: 10
   - source: "@quartz-community/search"
     enabled: true

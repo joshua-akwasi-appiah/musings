@@ -233,6 +233,19 @@ a.internal {
   background-color: color-mix(in srgb, var(--tertiary) 13%, var(--light));
 }
 
+.page-footer > .graph {
+  display: none;
+}
+
+body[data-slug="map-of-the-garden"] .graph > .graph-outer {
+  height: min(32rem, 60vh);
+  margin-top: 1.5rem;
+}
+
+body[data-slug="map-of-the-garden"] .page-footer > .graph {
+  display: block;
+}
+
 .callout,
 .callout[data-callout] {
   --color: var(--tertiary);
