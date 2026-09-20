@@ -57,6 +57,12 @@ a.internal {
   padding-top: 1.5rem;
 }
 
+:root[reader-mode="on"] .center {
+  width: min(100%, 44rem);
+  justify-self: center;
+  transition: width 220ms ease;
+}
+
 .page article a:not(.garden-path) {
   color: var(--tertiary);
   text-decoration-color: color-mix(in srgb, var(--tertiary) 45%, transparent);
