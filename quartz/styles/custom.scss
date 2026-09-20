@@ -78,20 +78,20 @@ a.internal {
   padding: 2.5rem;
   position: relative;
   overflow: hidden;
-  border: 1px solid color-mix(in srgb, var(--secondary) 24%, var(--lightgray));
+  border: 1px solid #3e362e;
   border-radius: 1rem;
   background:
     radial-gradient(
       circle at 90% 12%,
-      color-mix(in srgb, var(--tertiary) 38%, transparent),
+      color-mix(in srgb, #ac8968 42%, transparent),
       transparent 38%
     ),
     radial-gradient(
       circle at 8% 100%,
-      color-mix(in srgb, var(--secondary) 24%, transparent),
+      color-mix(in srgb, #865d36 54%, transparent),
       transparent 42%
     ),
-    linear-gradient(135deg, var(--lightgray), var(--light) 62%);
+    linear-gradient(135deg, #3e362e, #514237 62%, #3e362e);
 }
 
 .musings-hero::before {
@@ -114,7 +114,7 @@ a.internal {
 
 .musings-hero h1 {
   margin: 0;
-  color: var(--secondary);
+  color: #fff8ed;
   font-family: var(--headerFont);
   font-size: clamp(3.25rem, 8vw, 5.75rem);
   font-weight: 600;
@@ -125,7 +125,7 @@ a.internal {
 .musings-lede {
   max-width: 38rem;
   margin: 1.2rem 0 0.8rem;
-  color: var(--dark);
+  color: #fff8ed;
   font-family: var(--headerFont);
   font-size: 1.45rem;
   line-height: 1.25;
@@ -134,6 +134,7 @@ a.internal {
 .musings-hero-copy > p:last-child {
   max-width: 36rem;
   margin-bottom: 0;
+  color: #eaded2;
 }
 
 .musings-introduction {
@@ -176,13 +177,9 @@ a.internal {
   align-items: start;
   gap: 1rem;
   padding: 1.4rem 1.5rem;
-  border: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray));
+  border: 1px solid #93785b;
   border-radius: 0.75rem;
-  background: linear-gradient(
-    110deg,
-    color-mix(in srgb, var(--secondary) 9%, var(--lightgray)),
-    var(--lightgray)
-  );
+  background: linear-gradient(110deg, #ac8968, #b8997d);
 }
 
 .recent-notes-empty > span {
@@ -200,7 +197,7 @@ a.internal {
 .recent-notes-empty p {
   max-width: 35rem;
   margin: 0;
-  color: var(--darkgray);
+  color: #3e362e;
 }
 
 .garden-paths {
@@ -215,17 +212,17 @@ a.internal {
   gap: 0.35rem;
   min-height: 7.25rem;
   padding: 1.2rem;
-  border: 1px solid color-mix(in srgb, var(--secondary) 16%, var(--lightgray));
+  border: 1px solid transparent;
   border-radius: 0.7rem;
-  border-top: 4px solid var(--secondary);
-  background: color-mix(in srgb, var(--light) 94%, var(--lightgray));
-  color: var(--darkgray);
+  border-top: 4px solid #3e362e;
+  background: #865d36;
+  color: #fff8ed;
 }
 
 .garden-path:hover {
-  border-color: var(--tertiary);
-  background: color-mix(in srgb, var(--light) 78%, var(--tertiary));
-  color: var(--dark);
+  border-color: #fff8ed;
+  background: #3e362e;
+  color: #fff8ed;
   transform: translateY(-0.2rem);
   transition:
     transform 180ms ease,
@@ -234,36 +231,43 @@ a.internal {
 }
 
 .garden-path:nth-child(2) {
-  border-top-color: var(--musings-gold);
+  border-top-color: #3e362e;
+  background: #93785b;
 }
 
 .garden-path:nth-child(3) {
-  border-top-color: var(--tertiary);
+  border-top-color: #865d36;
+  background: #ac8968;
+  color: #3e362e;
 }
 
 .garden-path:nth-child(4) {
-  border-top-color: var(--musings-violet);
+  border-top-color: #865d36;
+  background: #a69080;
+  color: #3e362e;
 }
 
 .garden-path:nth-child(5) {
-  border-top-color: color-mix(in srgb, var(--secondary) 58%, var(--musings-gold));
+  border-top-color: #ac8968;
+  background: #3e362e;
 }
 
 .garden-path > span {
-  color: var(--secondary);
+  color: inherit;
   font-family: var(--codeFont);
   font-size: 0.75rem;
 }
 
 .garden-path > strong {
-  color: var(--dark);
+  color: inherit;
   font-family: var(--headerFont);
   font-size: 1.35rem;
   font-weight: 600;
 }
 
 .garden-path > small {
-  color: var(--darkgray);
+  color: inherit;
+  opacity: 0.86;
   font-size: 0.92rem;
   line-height: 1.4;
 }
