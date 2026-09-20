@@ -1,17 +1,17 @@
 @use "./variables.scss" as *;
 
-// Musings: an energetic editorial palette, grounded by ink blue.
+// Musings: a warm, earth-toned editorial palette.
 
 :root {
-  --musings-gold: #f2c14e;
-  --musings-violet: #7667c8;
-  --musings-sky: #d8edff;
+  --musings-gold: #ac8968;
+  --musings-violet: #93785b;
+  --musings-sky: #a69080;
 }
 
 :root[saved-theme="dark"] {
-  --musings-gold: #ffd166;
-  --musings-violet: #a99ef2;
-  --musings-sky: #27496d;
+  --musings-gold: #d2ad8a;
+  --musings-violet: #b89a7f;
+  --musings-sky: #a69080;
 }
 
 body {
