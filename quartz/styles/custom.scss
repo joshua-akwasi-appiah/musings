@@ -207,7 +207,7 @@ a.internal {
   margin: 1.25rem 0 2.5rem;
 }
 
-a.garden-path {
+article a.garden-path.internal {
   display: grid;
   gap: 0.35rem;
   min-height: 7.25rem;
@@ -219,7 +219,7 @@ a.garden-path {
   color: #fff8ed;
 }
 
-a.garden-path:hover {
+article a.garden-path.internal:hover {
   border-color: #fff8ed;
   background: #3e362e;
   color: #fff8ed;
@@ -230,24 +230,24 @@ a.garden-path:hover {
     background 180ms ease;
 }
 
-a.garden-path:nth-child(2) {
+article a.garden-path.internal:nth-child(2) {
   border-top-color: #3e362e;
   background: #93785b;
 }
 
-a.garden-path:nth-child(3) {
+article a.garden-path.internal:nth-child(3) {
   border-top-color: #865d36;
   background: #ac8968;
   color: #3e362e;
 }
 
-a.garden-path:nth-child(4) {
+article a.garden-path.internal:nth-child(4) {
   border-top-color: #865d36;
   background: #a69080;
   color: #3e362e;
 }
 
-a.garden-path:nth-child(5) {
+article a.garden-path.internal:nth-child(5) {
   border-top-color: #ac8968;
   background: #3e362e;
 }
