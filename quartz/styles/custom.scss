@@ -3,14 +3,12 @@
 // Musings: a warm, earth-toned editorial palette.
 
 :root {
-  --musings-gold: #ac8968;
-  --musings-violet: #93785b;
+  --musings-gold: #d0a34d;
   --musings-sky: #a69080;
 }
 
 :root[saved-theme="dark"] {
-  --musings-gold: #d2ad8a;
-  --musings-violet: #b89a7f;
+  --musings-gold: #e1bc69;
   --musings-sky: #a69080;
 }
 
@@ -177,7 +175,7 @@ a.internal {
   align-items: start;
   gap: 1rem;
   padding: 1.4rem 1.5rem;
-  border: 1px solid #93785b;
+  border: 1px solid var(--musings-gold);
   border-radius: 0.75rem;
   background: linear-gradient(110deg, #ac8968, #b8997d);
 }
@@ -209,6 +207,7 @@ a.internal {
 
 article a.garden-path.internal {
   display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
   gap: 0.35rem;
   min-height: 7.25rem;
   padding: 1.2rem;
@@ -220,19 +219,19 @@ article a.garden-path.internal {
 }
 
 article a.garden-path.internal:hover {
-  border-color: #fff8ed;
-  background: #3e362e;
-  color: #fff8ed;
+  border-color: var(--musings-gold);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--musings-gold) 55%, transparent), 0 0.85rem 1.4rem rgba(62, 54, 46, 0.18);
   transform: translateY(-0.2rem);
   transition:
     transform 180ms ease,
     border-color 180ms ease,
-    background 180ms ease;
+    box-shadow 180ms ease;
 }
 
 article a.garden-path.internal:nth-child(2) {
   border-top-color: #3e362e;
-  background: #93785b;
+  background: #d0a34d;
+  color: #3e362e;
 }
 
 article a.garden-path.internal:nth-child(3) {
@@ -252,13 +251,29 @@ article a.garden-path.internal:nth-child(5) {
   background: #3e362e;
 }
 
-.garden-path > span {
+.garden-path-index {
+  grid-column: 1;
   color: inherit;
   font-family: var(--codeFont);
   font-size: 0.75rem;
 }
 
+.garden-path-icon {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  width: 2.2rem;
+  height: 2.2rem;
+  margin-top: 0.05rem;
+  fill: none;
+  opacity: 0.9;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.6;
+}
+
 .garden-path > strong {
+  grid-column: 1 / -1;
   color: inherit;
   font-family: var(--headerFont);
   font-size: 1.35rem;
@@ -266,6 +281,7 @@ article a.garden-path.internal:nth-child(5) {
 }
 
 .garden-path > small {
+  grid-column: 1 / -1;
   color: inherit;
   opacity: 0.86;
   font-size: 0.92rem;

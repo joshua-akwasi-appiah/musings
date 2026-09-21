@@ -34,27 +34,32 @@ description: A digital garden by Joshua Akwasi Appiah.
 
 <div class="garden-paths">
   <a class="garden-path" href="./work-and-practice">
-    <span>01</span>
+    <span class="garden-path-index">01</span>
+    <svg class="garden-path-icon" viewBox="0 0 32 32" aria-hidden="true"><path d="M6 8h7v7H6zM19 17h7v7h-7zM13 11h6M22 17v-6h-3"/></svg>
     <strong>Work &amp; Practice</strong>
     <small>Learning, leadership, communication and organisational life.</small>
   </a>
   <a class="garden-path" href="./learning">
-    <span>02</span>
+    <span class="garden-path-index">02</span>
+    <svg class="garden-path-icon" viewBox="0 0 32 32" aria-hidden="true"><path d="M5 8.5c4.5-2 8.2-1.5 11 1.5v14c-2.8-3-6.5-3.5-11-1.5zM27 8.5c-4.5-2-8.2-1.5-11 1.5v14c2.8-3 6.5-3.5 11-1.5zM16 10v14"/></svg>
     <strong>Learning</strong>
     <small>Books, articles, conversations, courses and experience.</small>
   </a>
   <a class="garden-path" href="./ideas-and-observations">
-    <span>03</span>
+    <span class="garden-path-index">03</span>
+    <svg class="garden-path-icon" viewBox="0 0 32 32" aria-hidden="true"><circle cx="8" cy="16" r="3"/><circle cx="23" cy="8" r="3"/><circle cx="23" cy="24" r="3"/><path d="m10.7 14.5 9.6-5M10.7 17.5l9.6 5"/></svg>
     <strong>Ideas &amp; Observations</strong>
     <small>People, work, culture, technology and society.</small>
   </a>
   <a class="garden-path" href="./experiments">
-    <span>04</span>
+    <span class="garden-path-index">04</span>
+    <svg class="garden-path-icon" viewBox="0 0 32 32" aria-hidden="true"><path d="M24 10a10 10 0 1 0 2 10M24 5v5h-5M8 22v5h5"/><circle cx="16" cy="16" r="2"/></svg>
     <strong>Experiments</strong>
     <small>Things I am trying, what happened and what I learned.</small>
   </a>
   <a class="garden-path" href="./people-and-public-engagement">
-    <span>05</span>
+    <span class="garden-path-index">05</span>
+    <svg class="garden-path-icon" viewBox="0 0 32 32" aria-hidden="true"><path d="M5 7h15v10H11l-4 4v-4H5zM14 19h13v8H18l-3 3v-3h-1z"/></svg>
     <strong>People &amp; Public Engagement</strong>
     <small>Mentoring, communication and public engagement.</small>
   </a>
