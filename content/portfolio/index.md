@@ -6,7 +6,7 @@ description: Selected work by Joshua Akwasi Appiah across learning, communicatio
 <section class="portfolio-hero">
   <p class="portfolio-kicker">Portfolio</p>
   <h1>Hello, I’m<br />Joshua Akwasi Appiah.</h1>
-  <p class="portfolio-titles">Learning Experience Designer <span>·</span> Instructional Designer <span>·</span> Content Developer</p>
+  <p class="portfolio-titles">Learning Experience Designer <span>·</span> Programme Facilitator <span>·</span> Content Developer</p>
   <p class="portfolio-intro">I create learning experiences that help people understand complex ideas, have better conversations and change how they work.</p>
   <div class="portfolio-actions">
     <a class="portfolio-button primary" href="#featured-work">Explore selected work</a>
@@ -15,18 +15,14 @@ description: Selected work by Joshua Akwasi Appiah across learning, communicatio
 </section>
 
 <section class="portfolio-about">
-  <div><p class="portfolio-kicker">About me</p><h2>Learning begins with making things clear.</h2></div>
-  <div class="portfolio-copy"><p>I work at the intersection of learning, communication and human behaviour. At Forums@Work, I develop programmes, stories, discussion questions, facilitation materials and practical frameworks for workplace learning.</p><p>My path into L&amp;D also includes stakeholder presentations, product explainers and translating technical information for non-technical audiences. Those experiences taught me to begin with the audience: what do people need to understand, and what might help them act differently?</p></div>
-</section>
-
-<section class="portfolio-highlights" aria-label="Professional highlights">
-  <div><strong>Content Lead</strong><span>Forums@Work</span></div><div><strong>Facilitator</strong><span>Internal and external forum sessions</span></div><div><strong>MSc</strong><span>Communication and International Marketing</span></div><div><strong>Public engagement</strong><span>Clean Air One Atmosphere</span></div>
+  <div><p class="portfolio-kicker">About me</p><h2>From complex ideas to practical learning.</h2></div>
+  <div class="portfolio-copy"><p>I work at the intersection of learning, communication and human behaviour. At Forums@Work, I develop programmes, stories, facilitation materials and practical frameworks for workplace learning.</p><p>My path into L&amp;D began through stakeholder presentations, product explainers and translating technical information for non-technical audiences. Those experiences taught me to begin with the audience: what do people need to understand, and what might help them act differently?</p></div>
 </section>
 
 ## What I do
 
 <div class="practice-grid">
-  <div class="practice-card"><span>01</span><h3>Learning design</h3><p>Turning workplace challenges into structured learning journeys.</p></div><div class="practice-card"><span>02</span><h3>Facilitation</h3><p>Creating and guiding conversations that help groups learn from practice.</p></div><div class="practice-card"><span>03</span><h3>Content development</h3><p>Stories, cases, discussion questions, surveys and facilitator guides.</p></div><div class="practice-card"><span>04</span><h3>Communication</h3><p>Making technical or complex ideas useful for the people they are meant to serve.</p></div><div class="practice-card"><span>05</span><h3>Frameworks</h3><p>Creating practical mental models that give people language for action.</p></div><div class="practice-card"><span>06</span><h3>AI in learning</h3><p>Using AI thoughtfully in content workflows and learning experiences.</p></div>
+  <div class="practice-card"><span>01</span><h3>Learning design</h3><p>Turning workplace challenges into structured learning journeys.</p></div><div class="practice-card"><span>02</span><h3>Facilitation</h3><p>Designing and facilitating learning sessions that help people reflect, practise and apply what they learn.</p></div><div class="practice-card"><span>03</span><h3>Content development</h3><p>Stories, cases, surveys and facilitator guides.</p></div><div class="practice-card"><span>04</span><h3>Communication</h3><p>Making technical or complex ideas useful for the people they are meant to serve.</p></div><div class="practice-card"><span>05</span><h3>Frameworks</h3><p>Creating practical mental models that give people language for action.</p></div><div class="practice-card"><span>06</span><h3>AI in learning</h3><p>Using AI thoughtfully in content workflows and learning experiences.</p></div>
 </div>
 
 ## Featured work
@@ -50,6 +46,6 @@ description: Selected work by Joshua Akwasi Appiah across learning, communicatio
   <div><span>2025 to present</span><strong>Content Lead · Forums@Work</strong><p>Learning programmes, content development, facilitation and practical frameworks.</p></div><div><span>2025 to present</span><strong>Public Engagement Officer · Clean Air One Atmosphere</strong><p>Accessible environmental communication and public engagement.</p></div><div><span>2024</span><strong>Sales and Marketing · Davidtron Electricals &amp; Engineering Services</strong><p>Explaining technical solar information clearly for clients and customer-facing teams.</p></div><div><span>2019 to 2022</span><strong>Independent Representative · Quest Net</strong><p>Presentations, team training and stakeholder communication across markets.</p></div>
 </div>
 
-<section class="portfolio-education"><div><p class="portfolio-kicker">Education</p><h3>MSc, Communication and International Marketing</h3><p>Accra Business School</p><h3>BA, Theatre Arts</h3><p>University of Education, Winneba</p></div><div><p class="portfolio-kicker">Selected development</p><p>Diploma in Learning and Development · Alison</p><p>AI Career Essentials · ALX</p><p>Start Writing Prompts Like a Pro · Google</p><p>Supervision Management · Koforidua Technical University</p></div></section>
+<section class="portfolio-education"><div><p class="portfolio-kicker">Education</p><h3>MSc, Communication and International Marketing</h3><p>Accra Business School</p><h3>BA, Theatre Arts</h3><p>University of Education, Winneba</p></div><div><p class="portfolio-kicker">Professional development</p><ul class="certifications-list"><li>Diploma in Learning and Development · Alison</li><li>Start Writing Prompts Like a Pro · Google</li><li>AI Career Essentials · ALX</li><li>Virtual Assistance Skills in the Digital Age · ALX</li><li>Supervision Management · Koforidua Technical University</li><li>Entrepreneurship 101 · edX / MITx</li></ul></div></section>
 
-<section class="portfolio-contact" id="contact"><p class="portfolio-kicker">Contact</p><h2>Let’s start a conversation.</h2><p>If you would like to discuss learning, communication or a potential project, I would be glad to hear from you.</p><p><a href="mailto:appiahjnrakwasi@gmail.com">appiahjnrakwasi@gmail.com</a> <span>·</span> <a href="https://www.linkedin.com/in/joshua-akwasi-appiah-/">LinkedIn</a></p></section>
+<section class="portfolio-contact" id="contact"><div class="portfolio-contact-copy"><p class="portfolio-kicker">Let’s talk</p><h2>Let’s start a conversation.</h2><p>I’m always open to discussing learning, communication, new projects and ideas worth exploring.</p><p><a href="mailto:appiahjnrakwasi@gmail.com">appiahjnrakwasi@gmail.com</a><br /><a href="https://www.linkedin.com/in/joshua-akwasi-appiah-/">LinkedIn</a></p></div><form class="portfolio-contact-form" action="mailto:appiahjnrakwasi@gmail.com" method="post" enctype="text/plain"><label>Name<input type="text" name="name" required /></label><label>Email<input type="email" name="email" required /></label><label>Message<textarea name="message" rows="5" required></textarea></label><button type="submit">Send message</button><small>This opens your email app to send the message.</small></form></section>

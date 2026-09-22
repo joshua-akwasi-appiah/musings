@@ -16,7 +16,3 @@ Operational leadership depends on more than compliance. Managers need to hold st
 I designed a forum-based programme that moved from personal accountability to team standards, coaching, labour engagement, leadership, subcontractor governance, cross-training, urgency and resilience.
 
 Each week connected a practical leadership theme with reflection, peer discussion and a specific action participants could apply in their own teams.
-
-## Public-safe description
-
-This case study deliberately avoids client names, internal systems, participant information and commercial results. It shows the learning design and operational themes only.
