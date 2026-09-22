@@ -1,34 +1,24 @@
 ---
 title: AI Master Programme
-description: Designing a peer-learning programme to support practical AI adoption.
+description: A staged peer-learning programme for practical AI adoption.
 ---
 
-# AI Master Programme
+<section class="case-study-hero case-ai"><p>Featured work · 01</p><h1>AI Master Programme</h1><p>A 12-session, three-stage learning programme designed to help people move from AI hesitation to practical, responsible adoption.</p></section>
 
-## The starting point
+<div class="case-study-facts"><div><span>Audience</span><strong>Forums@Work team</strong></div><div><span>Format</span><strong>Peer-learning forum</strong></div><div><span>Cadence</span><strong>12 sessions · 3 months</strong></div></div>
 
-At Forums@Work, we recognised that access to AI tools was not automatically leading to confident or consistent use. The first learners were our own colleagues.
+## The challenge
 
-I designed and developed the AI Master Programme to address low AI adoption in the team. The aim was not simply to introduce tools, but to help people explore practical use, discuss what was getting in the way and build habits they could apply to their everyday work.
+Access to AI tools was not automatically leading to confident or consistent use. The programme was designed for colleagues at Forums@Work, with the goal of helping people understand what was getting in the way, experiment in their own work and build practical habits.
 
-## My contribution
+## What I designed
 
-I built the programme from scratch as a three-stage learning experience. It brought together:
+I designed the programme as three stages: orientation, exploration and intentional adoption. Each stage had a clear goal, an assessment point and a decision about whether participants were ready to move forward.
 
-- narrative learning content
-- structured peer discussion
-- hands-on exploration of AI tools
-- action steps that encouraged people to try something between sessions
-- accountability through regular reflection with others
+The learning experience combined narrative content, structured discussion, tool exploration, regular 90-second peer shares and action steps between sessions. As the programme progressed, participants moved from sharing discoveries to bringing evidence of changed workflows and practical applications.
 
-I also considered how the programme could support behaviour change, not only awareness. That meant making room for people to test ideas, speak honestly about their uncertainty and learn from how others were using the tools.
+## What I learned
 
-## Delivery and learning
+Low AI adoption is not only a skills problem. People can be uncertain about relevance, frustrated by the effort required, concerned about responsible use or too busy to experiment. Peer learning and accountability create space to test small actions, compare experiences and keep going.
 
-The programme has been delivered internally at Forums@Work. It has since informed conversations with an external organisation that is interested in a similar programme.
-
-One important lesson from the work is that low AI adoption is not usually only a skills problem. People can face uncertainty, hesitation, questions about relevance and difficulty making time to experiment. Peer learning and accountability can help because they give people a place to compare experiences, test small actions and keep going.
-
-## What this work represents
-
-This programme reflects the kind of learning work I am interested in: practical, discussion-led and designed to help people carry an idea into their actual work.
+The programme has been delivered internally at Forums@Work.
