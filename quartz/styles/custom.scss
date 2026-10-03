@@ -92,14 +92,6 @@ a.internal {
     linear-gradient(135deg, #3e362e, #514237 62%, #3e362e);
 }
 
-.musings-hero::before {
-  position: absolute;
-  inset: 0 auto 0 0;
-  width: 0.45rem;
-  background: linear-gradient(var(--secondary), var(--tertiary), var(--musings-gold));
-  content: "";
-}
-
 .musings-kicker {
   margin: 0 0 0.75rem;
   color: var(--secondary);
@@ -213,7 +205,6 @@ article a.garden-path.internal {
   padding: 1.2rem;
   border: 1px solid transparent;
   border-radius: 0.7rem;
-  border-top: 4px solid #3e362e;
   background: #865d36;
   color: #fff8ed;
 }
@@ -229,25 +220,21 @@ article a.garden-path.internal:hover {
 }
 
 article a.garden-path.internal:nth-child(2) {
-  border-top-color: #3e362e;
   background: #d0a34d;
   color: #3e362e;
 }
 
 article a.garden-path.internal:nth-child(3) {
-  border-top-color: #865d36;
   background: #ac8968;
   color: #3e362e;
 }
 
 article a.garden-path.internal:nth-child(4) {
-  border-top-color: #865d36;
   background: #a69080;
   color: #3e362e;
 }
 
 article a.garden-path.internal:nth-child(5) {
-  border-top-color: #ac8968;
   background: #3e362e;
 }
 
@@ -458,9 +445,8 @@ article a.project-card.project-safety > *,
 article a.project-card.project-culture > *,
 article a.project-card.project-leadership > * { color: #fff8ed; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.22); }
 
-.experience-timeline { margin: 1.25rem 0 3.5rem; border-left: 2px solid var(--tertiary); }
-.experience-timeline > div { position: relative; padding: 0 0 1.8rem 1.5rem; }
-.experience-timeline > div::before { position: absolute; top: 0.32rem; left: -0.44rem; width: 0.72rem; height: 0.72rem; border-radius: 50%; background: var(--musings-gold); content: ""; }
+.experience-timeline { display: grid; gap: 1.15rem; margin: 1.25rem 0 3.5rem; }
+.experience-timeline > div { padding: 0; }
 .experience-timeline span,
 .experience-timeline strong { display: block; }
 .experience-timeline span { color: var(--tertiary); font-family: var(--codeFont); font-size: 0.74rem; }
@@ -472,10 +458,11 @@ article a.project-card.project-leadership > * { color: #fff8ed; text-shadow: 0 1
 .certifications-list { display: grid; grid-template-columns: 1fr; gap: 0.7rem; margin: 0.4rem 0 0; padding: 0; list-style: none; }
 .certifications-list li { margin: 0; padding: 0.78rem 0.9rem; border: 1px solid var(--lightgray); border-radius: 0.4rem; background: color-mix(in srgb, var(--lightgray) 35%, var(--light)); color: var(--dark); font-size: 0.98rem; line-height: 1.4; }
 
-.portfolio-contact { display: grid; grid-template-columns: minmax(0, 0.78fr) minmax(0, 1.22fr); gap: clamp(1.75rem, 5vw, 3.5rem); margin: 3.5rem 0 1rem; padding: clamp(2rem, 6vw, 4rem); border-radius: 0.85rem; background: var(--lightgray); }
-.portfolio-contact h2 { font-size: clamp(1.85rem, 3.1vw, 2.55rem); }
+.portfolio-contact { display: grid; grid-template-columns: minmax(17rem, 0.85fr) minmax(20rem, 1.15fr); gap: clamp(1.25rem, 4vw, 2.5rem); margin: 3.5rem 0 1rem; padding: clamp(2rem, 6vw, 4rem); border-radius: 0.85rem; background: var(--lightgray); }
+.portfolio-contact h2 { font-size: clamp(1.6rem, 2.5vw, 2.15rem); line-height: 1.08; }
 .portfolio-contact > p { max-width: 36rem; }
 .portfolio-contact a { font-size: 1.03rem; }
+.portfolio-contact-copy > p:last-child > a:first-child { display: inline-block; white-space: nowrap; }
 body[data-slug="portfolio/index"] .page-listing { display: none; }
 body[data-slug="portfolio/index"] .page-header { display: none; }
 
@@ -507,9 +494,7 @@ body[data-slug="portfolio/index"] .page-header { display: none; }
 .case-study-facts strong { margin-top: 0.3rem; color: var(--dark); font-family: var(--headerFont); font-size: 1.05rem; font-weight: 600; line-height: 1.2; }
 article:has(.case-study-hero) > p { max-width: 46rem; font-size: 1rem; line-height: 1.65; }
 
-.framework-grid > div { min-height: 10.5rem; padding: 1.2rem; border: 1px solid var(--lightgray); border-top: 4px solid var(--tertiary); border-radius: 0.65rem; overflow: hidden; background: color-mix(in srgb, var(--lightgray) 32%, var(--light)); }
-.framework-grid > div:nth-child(3n + 2) { border-top-color: var(--musings-gold); }
-.framework-grid > div:nth-child(3n) { border-top-color: var(--secondary); }
+.framework-grid > div { min-height: 10.5rem; padding: 1.2rem; border: 1px solid var(--lightgray); border-radius: 0.65rem; overflow: hidden; background: color-mix(in srgb, var(--lightgray) 32%, var(--light)); }
 .framework-grid > .framework-card-with-art { padding: 0; }
 .framework-grid .framework-card-with-art > span,
 .framework-grid .framework-card-with-art h3,
@@ -584,8 +569,7 @@ body[data-slug="map-of-the-garden"] .page-footer > .graph {
 blockquote {
   margin: 1.5rem 0;
   padding: 0.3rem 1.25rem;
-  border-left: 3px solid var(--tertiary);
-  border-radius: 0 0.45rem 0.45rem 0;
+  border-radius: 0.45rem;
   background: color-mix(in srgb, var(--lightgray) 56%, transparent);
   color: var(--darkgray);
   font-family: var(--headerFont);
