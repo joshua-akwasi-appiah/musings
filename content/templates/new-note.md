@@ -1,6 +1,7 @@
 ---
 title:
 description:
+comments: true
 tags: []
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Ideas & Observations
 description: Thinking about people, communication, work, culture, technology and society.
+comments: false
 ---
 
 A place for questions, observations and ideas that do not yet belong anywhere else.

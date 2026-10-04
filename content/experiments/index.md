@@ -1,6 +1,7 @@
 ---
 title: Experiments
 description: Things I am trying, what happened and what I learned.
+comments: false
 ---
 
 A record of things I am trying in the real world.

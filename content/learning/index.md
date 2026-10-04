@@ -1,6 +1,7 @@
 ---
 title: Learning
 description: Notes from books, articles, courses, conversations and experience.
+comments: false
 ---
 
 Notes on what I am learning.

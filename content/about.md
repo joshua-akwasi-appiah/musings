@@ -1,6 +1,7 @@
 ---
 title: About
 description: A little context about Joshua Akwasi Appiah and Musings.
+comments: false
 ---
 
 # About

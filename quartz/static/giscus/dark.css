@@ -34,46 +34,46 @@ main {
   --color-prettylights-syntax-brackethighlighter-angle: #8b949e;
   --color-prettylights-syntax-sublimelinter-gutter-mark: #484f58;
   --color-prettylights-syntax-constant-other-reference-link: #a5d6ff;
-  --color-btn-text: #d4d4d4; /* --darkgray */
-  --color-btn-bg: #161618; /* --light */
-  --color-btn-border: rgb(240, 246, 252 / 10%); /* --dark */
+  --color-btn-text: #eaded2;
+  --color-btn-bg: #3e362e;
+  --color-btn-border: rgb(255 248 237 / 12%);
   --color-btn-shadow: 0 0 transparent;
   --color-btn-inset-shadow: 0 0 transparent;
-  --color-btn-hover-bg: #30363d;
-  --color-btn-hover-border: #8b949e;
-  --color-btn-active-bg: hsl(212deg 12% 18% / 100%);
-  --color-btn-active-border: #6e7681;
-  --color-btn-selected-bg: #161b22;
+  --color-btn-hover-bg: #50453a;
+  --color-btn-hover-border: #a69080;
+  --color-btn-active-bg: #5b4d42;
+  --color-btn-active-border: #a69080;
+  --color-btn-selected-bg: #50453a;
   --color-btn-primary-text: #fff;
-  --color-btn-primary-bg: #84a59d; /* --tertiary */
-  --color-btn-primary-border: rgb(240, 246, 252 / 10%); /* --dark */
+  --color-btn-primary-bg: #d2ad8a;
+  --color-btn-primary-border: rgb(255 248 237 / 14%);
   --color-btn-primary-shadow: 0 0 transparent;
   --color-btn-primary-inset-shadow: 0 0 transparent;
-  --color-btn-primary-hover-bg: #7b97aa; /* --secondary */
-  --color-btn-primary-hover-border: rgb(240, 246, 252 / 10%); /* --dark */
-  --color-btn-primary-selected-bg: #7b97aa; /* --secondary */
+  --color-btn-primary-hover-bg: #ac8968;
+  --color-btn-primary-hover-border: rgb(255 248 237 / 16%);
+  --color-btn-primary-selected-bg: #ac8968;
   --color-btn-primary-selected-shadow: 0 0 transparent;
   --color-btn-primary-disabled-text: rgba(33, 32, 32, 0.5);
   --color-btn-primary-disabled-bg: rgb(35 134 54 / 60%);
   --color-btn-primary-disabled-border: rgb(240 246 252 / 10%);
-  --color-action-list-item-default-hover-bg: rgb(177 186 196 / 12%);
-  --color-segmented-control-bg: rgb(110 118 129 / 10%);
-  --color-segmented-control-button-bg: #0d1117;
-  --color-segmented-control-button-selected-border: #6e7681;
-  --color-fg-default: #ebebec; /* --dark */
-  --color-fg-muted: #d4d4d4; /* --darkgray */
-  --color-fg-subtle: #d4d4d4; /* --darkgray */
-  --color-canvas-default: #0d1117;
-  --color-canvas-overlay: #161b22;
-  --color-canvas-inset: #010409;
-  --color-canvas-subtle: #161b22;
-  --color-border-default: #30363d;
-  --color-border-muted: #21262d;
-  --color-neutral-muted: rgb(110 118 129 / 40%);
-  --color-accent-fg: #2f81f7;
-  --color-accent-emphasis: #1f6feb;
-  --color-accent-muted: rgb(56 139 253 / 40%);
-  --color-accent-subtle: rgb(56 139 253 / 10%);
+  --color-action-list-item-default-hover-bg: rgb(80 69 58 / 70%);
+  --color-segmented-control-bg: rgb(80 69 58 / 74%);
+  --color-segmented-control-button-bg: #3e362e;
+  --color-segmented-control-button-selected-border: #a69080;
+  --color-fg-default: #fff8ed;
+  --color-fg-muted: #eaded2;
+  --color-fg-subtle: #eaded2;
+  --color-canvas-default: #3e362e;
+  --color-canvas-overlay: #3e362e;
+  --color-canvas-inset: #322b25;
+  --color-canvas-subtle: #322b25;
+  --color-border-default: #6a5a4c;
+  --color-border-muted: #50453a;
+  --color-neutral-muted: rgb(166 144 128 / 26%);
+  --color-accent-fg: #d2ad8a;
+  --color-accent-emphasis: #d2ad8a;
+  --color-accent-muted: rgb(210 173 138 / 44%);
+  --color-accent-subtle: rgb(210 173 138 / 14%);
   --color-success-fg: #3fb950;
   --color-attention-fg: #d29922;
   --color-attention-muted: rgb(187 128 9 / 40%);

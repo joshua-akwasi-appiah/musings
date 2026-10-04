@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 description: Selected work by Joshua Akwasi Appiah across learning, communication and public engagement.
+comments: false
 ---
 
 <section class="portfolio-hero">

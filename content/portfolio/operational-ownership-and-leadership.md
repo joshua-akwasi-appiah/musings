@@ -1,6 +1,7 @@
 ---
 title: Operational Ownership and Leadership
 description: A public-safe case study about frontline leadership and operational resilience.
+comments: false
 ---
 
 <section class="case-study-hero case-leadership"><p>Featured work · 06</p><h1>Operational Ownership &amp; Leadership</h1><p>A 14-week programme for division managers in a US facilities-services organisation.</p></section>

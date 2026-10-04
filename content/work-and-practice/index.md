@@ -1,6 +1,7 @@
 ---
 title: Work & Practice
 description: Reflections from work, learning design, facilitation, leadership and organisational life.
+comments: false
 ---
 
 Ideas and reflections emerging from professional practice.

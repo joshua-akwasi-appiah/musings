@@ -1,6 +1,7 @@
 ---
 title: Why Musings
 description: Why Joshua Akwasi Appiah keeps a digital garden.
+comments: false
 ---
 
 I think a lot. I imagine most people do.

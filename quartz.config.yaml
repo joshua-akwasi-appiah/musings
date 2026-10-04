@@ -234,10 +234,21 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: "joshua-akwasi-appiah/musings"
+        repoId: "R_kgDOUctg5A"
+        category: "Garden conversations"
+        categoryId: "DIC_kwDOUctg5M4DHCgA"
+        mapping: "pathname"
+        strict: true
+        reactionsEnabled: true
+        inputPosition: "bottom"
+        lightTheme: "light"
+        darkTheme: "dark"
+        lang: "en"
     layout:
       position: afterBody
       priority: 10

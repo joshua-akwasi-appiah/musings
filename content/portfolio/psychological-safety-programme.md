@@ -1,6 +1,7 @@
 ---
 title: Psychological Safety Programme
 description: A learning programme about trust, tension, decision-making and empowered teams.
+comments: false
 ---
 
 <section class="case-study-hero case-safety"><p>Featured work · 02</p><h1>Psychological Safety Programme</h1><p>A 17-week learning journey designed to help people speak up, address tension and build the conditions for trust and ownership.</p></section>

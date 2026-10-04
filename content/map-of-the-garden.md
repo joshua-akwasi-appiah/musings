@@ -1,6 +1,7 @@
 ---
 title: Map of the Garden
 description: A visual map of the connections taking shape across Musings.
+comments: false
 ---
 
 This is a visual map of Musings. Each point represents a page or note. Lines appear when one idea links to another.

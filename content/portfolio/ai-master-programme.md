@@ -1,6 +1,7 @@
 ---
 title: AI Master Programme
 description: A staged peer-learning programme for practical AI adoption.
+comments: false
 ---
 
 <section class="case-study-hero case-ai"><p>Featured work · 01</p><h1>AI Master Programme</h1><p>A 12-session, three-stage learning programme designed to help people move from AI hesitation to practical, responsible adoption.</p></section>

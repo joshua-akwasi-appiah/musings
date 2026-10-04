@@ -1,6 +1,7 @@
 ---
 title: Frameworks and Approaches
 description: Practical models Joshua Akwasi Appiah develops, adapts and uses in learning work.
+comments: false
 ---
 
 <section class="case-study-hero case-frameworks"><p>Portfolio</p><h1>Frameworks and approaches</h1><p>Practical language can help people notice a pattern, have a better conversation and decide what to do next.</p></section>

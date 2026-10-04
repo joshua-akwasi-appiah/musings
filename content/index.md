@@ -1,6 +1,7 @@
 ---
 title: Musings
 description: A digital garden by Joshua Akwasi Appiah.
+comments: false
 ---
 
 <section class="musings-hero">

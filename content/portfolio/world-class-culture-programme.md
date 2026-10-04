@@ -1,6 +1,7 @@
 ---
 title: Building a World Class Culture
 description: A focused internal programme on self-leadership, shared standards and teamwork.
+comments: false
 ---
 
 <section class="case-study-hero case-culture"><p>Featured work · 04</p><h1>Building a World-Class Culture</h1><p>A four-week internal programme about self-leadership, shared standards and taking responsibility beyond your own role.</p></section>
