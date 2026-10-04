@@ -13,7 +13,7 @@ I currently work in learning and development, a field I care deeply about. I bel
 
 My work includes content development, learning design and creating space for useful learning conversations. I am especially interested in the connection between learning, behaviour, communication, leadership and organisational culture.
 
-I also mentor a group of young men. I care about helping young people recognise their purpose, take responsibility for their lives and see beyond the limits of their immediate circumstances.
+I also mentor a group of teenagers. I care about helping young people recognise their purpose, take responsibility for their lives and see beyond the limits of their immediate circumstances.
 
 Alongside this, I work in public engagement with Clean Air One Atmosphere. This has deepened my interest in making complex ideas understandable and helping people connect information to the lives they are already living.
 

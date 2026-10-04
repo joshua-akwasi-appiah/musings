@@ -15,7 +15,7 @@ description: A digital garden by Joshua Akwasi Appiah.
 <section class="musings-introduction">
   <p>It is not a finished collection. Some notes will be polished. Others will be rough, incomplete or still changing. That is intentional.</p>
 
-  <p>I work in learning and development, mentor young men and contribute to public engagement around clean air. I am interested in how people learn, how they work together and how ideas can become useful in the real world.</p>
+  <p>I work in learning and development, mentor teenagers and contribute to public engagement around clean air. I am interested in how people learn, how they work together and how ideas can become useful in the real world.</p>
 </section>
 
 <section class="recent-notes">
@@ -24,9 +24,17 @@ description: A digital garden by Joshua Akwasi Appiah.
     <h2>Recent notes</h2>
   </div>
 
-  <div class="recent-notes-empty">
-    <span>In progress</span>
-    <p>The first notes are still growing. When they are ready to share, they will begin to appear here.</p>
+  <div class="recent-notes-list">
+    <a class="recent-note-card" href="./learning/a-question-should-be-answered">
+      <span>Learning</span>
+      <strong>A Question Should Be Answered</strong>
+      <p>What a dismissive reply to an obvious question can teach us about confidence, curiosity and learning.</p>
+    </a>
+    <a class="recent-note-card" href="./ideas-and-observations/an-opinion-is-not-a-decision">
+      <span>Ideas &amp; Observations</span>
+      <strong>An Opinion Is Not a Decision</strong>
+      <p>Why asking for someone’s perspective does not create an obligation to follow it.</p>
+    </a>
   </div>
 </section>
 
