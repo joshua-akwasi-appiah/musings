@@ -1,5 +1,5 @@
 ---
-title: But I Used the Juice
+title: "But I Used the Juice: The Dunning-Kruger Effect"
 description: A conversation about an old dream, confidence, caution and the Dunning-Kruger effect.
 ---
 
@@ -7,7 +7,7 @@ Have you ever been in a situation where someone encouraged you to do something y
 
 Well, this was me yesterday.
 
-Funny enough, it happened during a conversation with a friend. She encouraged me to do something I had always believed I would do from childhood. You would think I would have met her encouragement with excitement.
+Funny enough, it happened during a conversation with a friend. Let’s call her Morgana, because at one point I thought it was the sweetest name ever. Morgana encouraged me to do something I had always believed I would do from childhood. You would think I would have met her encouragement with excitement.
 
 But no.
 
@@ -17,7 +17,7 @@ Now, before you start pointing fingers, in my defence, I had not thought about d
 
 But then I grew up. I saw more of life. I began to understand that things are not always as simple as they look from a distance. And somehow, somewhere along the way, I stopped thinking about it altogether.
 
-So when my friend said that, based on one or two things she had seen me do, she believed I would be able to do this quite well, my immediate response was, “Nope. This is not me.” Thankfully, my friend did not leave it at that. She spelt out the reasons she believed I could do it, and after a little back and forth, I admitted that I could at least attempt it. 🤭
+So when Morgana said that, based on one or two things she had seen me do, she believed I would be able to do this quite well, my immediate response was, “Nope. This is not me.” Thankfully, Morgana did not leave it at that. She spelt out the reasons she believed I could do it, and after a little back and forth, I admitted that I could at least attempt it. 🤭
 
 The conversation reminded me of something I had watched just the day before: the Dunning-Kruger effect.
 
