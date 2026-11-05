@@ -38,7 +38,7 @@ const mountCommentBox = () => {
 
   const initialise = () => {
     if (typeof window.commentBox !== "function") return
-    window.commentBox(${escapedProjectId}, { className: "musings-commentbox" })
+    window.commentBox(${escapedProjectId})
     container.dataset.commentboxMounted = "true"
   }
 
