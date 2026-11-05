@@ -1,0 +1,25 @@
+{
+  "name": "commentbox",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components.js"
+  },
+  "quartz": {
+    "name": "commentbox",
+    "displayName": "CommentBox",
+    "description": "Guest comments for Musings through CommentBox.io",
+    "version": "1.0.0",
+    "category": "component",
+    "defaultEnabled": false,
+    "components": {
+      "CommentBox": {
+        "displayName": "CommentBox",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 10
+      }
+    }
+  }
+}

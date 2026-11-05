@@ -233,22 +233,10 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: "@quartz-community/comments"
+  - source: "./quartz/plugins/commentbox"
     enabled: true
     options:
-      provider: giscus
-      options:
-        repo: "joshua-akwasi-appiah/musings"
-        repoId: "R_kgDOUctg5A"
-        category: "Garden conversations"
-        categoryId: "DIC_kwDOUctg5M4DHCgA"
-        mapping: "pathname"
-        strict: true
-        reactionsEnabled: true
-        inputPosition: "bottom"
-        lightTheme: "light"
-        darkTheme: "dark"
-        lang: "en"
+      projectId: "5697643946704896-proj"
     layout:
       position: afterBody
       priority: 10
