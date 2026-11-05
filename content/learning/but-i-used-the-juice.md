@@ -11,15 +11,11 @@ Funny enough, it happened during a conversation with a friend. She encouraged me
 
 But no.
 
-I met it with lots of excuses.
-
-I kept pouring water on the fire she was trying to ignite in me.
+I met it with lots of excuses. I kept pouring water on the fire she was trying to ignite in me.
 
 Now, before you start pointing fingers, in my defence, I had not thought about doing that thing in years. Yes, it used to be a childhood dream. At one point in my life, I had imagined myself doing it. I imagined the excitement, the fulfilment and everything that would come with finally making it happen.
 
-But then I grew up.
-
-I saw more of life. I began to understand that things are not always as simple as they look from a distance. And somehow, somewhere along the way, I stopped thinking about it altogether.
+But then I grew up. I saw more of life. I began to understand that things are not always as simple as they look from a distance. And somehow, somewhere along the way, I stopped thinking about it altogether.
 
 So when my friend said that, based on one or two things she had seen me do, she believed I would be able to do this quite well, my immediate response was, “Nope. This is not me.” Thankfully, my friend did not leave it at that. She spelt out the reasons she believed I could do it, and after a little back and forth, I admitted that I could at least attempt it. 🤭
 
@@ -29,7 +25,7 @@ I had come across it before, back in school, but this time it finally made sense
 
 Back in 1995, a man called McArthur Wheeler robbed two banks in Pittsburgh without wearing a mask.
 
-That alone is bold enough.
+Imagine the guts. 😂
 
 But what made the story especially strange was that he expected he would get away with it, and the reason he thought so. Wheeler had been told that if he rubbed lemon juice on his face, security cameras would not be able to capture him.
 
@@ -51,9 +47,7 @@ Sometimes, the little bit we know can make us feel like we have seen the whole p
 
 And suddenly, we become more cautious.
 
-I can see this in my own life.
-
-There are things I knew just enough about to feel very sure of myself. I had a few facts, a few ideas and maybe one or two good experiences. That was enough for me to think, “Yes, I have this under control.”
+Upon reflection, I can see this in my own life. There are things I knew just enough about to feel very sure of myself. I had a few facts, a few ideas and maybe one or two good experiences. That was enough for me to think, “Yes, I have this under control.”
 
 Then there are things I have spent more time learning about. And strangely, those are the things that can make me pause more. I ask more questions. I become less eager to announce that I have figured everything out.
 
@@ -67,7 +61,7 @@ And that is where this becomes worth thinking about.
 
 There are things we jump at because we do not know enough to be cautious. There are also things we avoid because we know enough to see the difficulty, but not enough to trust that we can learn our way through it.
 
-One thing I have genuinely found in my L&D journey is that learning is rarely only about acquiring information. It is also about helping people assess themselves honestly.
+One thing I have found particularly powerful in my L&D journey is realising that learning is not always about giving people new information. Sometimes, it is about helping people take an honest look at what they already know, what they do not know and what they need to do next.
 
 What do I know?
 
@@ -83,7 +77,7 @@ So today, I have a question for all of us.
 
 When you are hesitating, ask yourself: *Do I genuinely need to learn more, or am I underestimating what I already know?*
 
-And when you are very eager to act, ask yourself: *Have I really understood this situation, or have I only understood enough to feel confident?*
+And when you are very eager to act, ask yourself: *Have I really understood this situation, or have I only understood just enough to feel confident?*
 
 Anyway, these are my musings for today.
 
