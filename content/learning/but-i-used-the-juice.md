@@ -7,7 +7,7 @@ Have you ever been in a situation where someone encouraged you to do something y
 
 Well, this was me yesterday.
 
-Funny enough, it happened during a conversation with a friend. Let’s call her Morgana, because at one point I thought it was the sweetest name ever. Morgana encouraged me to do something I had always believed I would do from childhood. You would think I would have met her encouragement with excitement.
+Funny enough, it happened during a conversation with a friend. Let’s call her Morgana (because at one point I thought it was the sweetest name ever 😄). Anyway, back to the present. Morgana was encouraging me to do something I had always believed I would do from childhood. You would think I would have met her encouragement with excitement.
 
 But no.
 
