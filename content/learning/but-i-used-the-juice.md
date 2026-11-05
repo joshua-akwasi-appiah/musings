@@ -7,17 +7,27 @@ Have you ever been in a situation where someone encouraged you to do something y
 
 Well, this was me yesterday.
 
-Funny enough, it happened during a conversation with a friend. Let’s call her Morgana (because at one point I thought it was the sweetest name ever 😄). Anyway, back to the present. Morgana was encouraging me to do something I had always believed I would do from childhood. You would think I would have met her encouragement with excitement.
+Funny enough, it happened during a conversation with a friend. Let’s call her Morgana (because at one point I thought it was the sweetest name ever 😄).
+
+I had been explaining to her something I had read recently and how it had changed my perspective on the subject. When I finished, she said something along the lines of, “Wow, you should write a book.”
+
+I burst out laughing because I found it funny.
+
+But she said, “No, seriously. Seriously. I believe you are creative and that you could actually be a writer.”
+
+You would think I would have met her encouragement with excitement.
 
 But no.
 
 I met it with lots of excuses. I kept pouring water on the fire she was trying to ignite in me.
 
-Now, before you start pointing fingers, in my defence, I had not thought about doing that thing in years. Yes, it used to be a childhood dream. At one point in my life, I had imagined myself doing it. I imagined the excitement, the fulfilment and everything that would come with finally making it happen.
+Now, before you start pointing fingers, in my defence, I had not thought seriously about being a writer in years. At one point in my life, it was one of my childhood dreams. I imagined myself publishing books and experiencing the excitement and fulfilment that would come with finally doing it.
 
-But then I grew up. I saw more of life. I began to understand that things are not always as simple as they look from a distance. And somehow, somewhere along the way, I stopped thinking about it altogether.
+But then I grew up. I saw more of life. I began to understand that writing a book is not as simple as having an idea and putting words on a page. And somehow, somewhere along the way, I stopped thinking about it altogether.
 
-So when Morgana said that, based on one or two things she had seen me do, she believed I would be able to do this quite well, my immediate response was, “Nope. This is not me.” Thankfully, Morgana did not leave it at that. She spelt out the reasons she believed I could do it, and after a little back and forth, I admitted that I could at least attempt it. 🤭
+Thankfully, Morgana did not leave it at that. She explained why she thought I could do it. She had seen how I communicate, how I explain concepts and ideas, and how I break down things that may seem technical or difficult to understand. She had also read a few short pieces I had written.
+
+After a little back and forth, I admitted that I could at least attempt it. 🤭
 
 The conversation reminded me of something I had watched just the day before: the Dunning-Kruger effect.
 
