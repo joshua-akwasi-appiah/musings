@@ -4,13 +4,13 @@ description: A public-safe case study about sales, client relationships and comm
 comments: false
 ---
 
-<section class="case-study-hero case-commercial"><p>Featured work · 05</p><h1>Commercial Conversations &amp; Client Value</h1><p>A 14-week learning programme for a US facilities-services organisation’s sales and client-relations team.</p></section>
+<section class="case-study-hero case-commercial"><p>Featured work · 05</p><h1>Commercial Conversations &amp; Client Value</h1><p>A 14-week learning program for a US facilities-services organisation’s sales and client-relations team.</p></section>
 
 <div class="case-study-facts"><div><span>Industry</span><strong>Facilities services</strong></div><div><span>Length</span><strong>14 weeks</strong></div><div><span>Focus</span><strong>Commercial confidence</strong></div></div>
 
 ## The challenge
 
-The programme was designed to help commercial teams move beyond describing services and have stronger conversations about the operational, financial and client outcomes those services support.
+The program was designed to help commercial teams move beyond describing services and have stronger conversations about the operational, financial and client outcomes those services support.
 
 ## What I designed
 

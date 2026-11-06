@@ -1,10 +1,10 @@
 ---
-title: Ownership Mindset Programme
-description: A 14-week programme about initiative, accountability and commitment at work.
+title: Ownership Mindset Program
+description: A 14-week program about initiative, accountability and commitment at work.
 comments: false
 ---
 
-<section class="case-study-hero case-ownership"><p>Featured work · 03</p><h1>Ownership Mindset Programme</h1><p>A 14-week forum-based programme designed to move people from employee thinking towards initiative, accountability and all-in commitment.</p></section>
+<section class="case-study-hero case-ownership"><p>Featured work · 03</p><h1>Ownership Mindset Program</h1><p>A 14-week forum-based program designed to move people from employee thinking towards initiative, accountability and all-in commitment.</p></section>
 
 <div class="case-study-facts"><div><span>Format</span><strong>Forum-based learning</strong></div><div><span>Length</span><strong>14 weeks</strong></div><div><span>Focus</span><strong>Ownership in practice</strong></div></div>
 
@@ -20,4 +20,4 @@ Themes included employee and owner mindsets, personal initiative, values, focus,
 
 ## Evidence and next steps
 
-The programme included surveys, action steps and before-and-after questions so that behaviour could be examined over time. A fuller impact account will be added once the relevant survey and participant evidence has been reviewed.
+The program included surveys, action steps and before-and-after questions so that behaviour could be examined over time. A fuller impact account will be added once the relevant survey and participant evidence has been reviewed.

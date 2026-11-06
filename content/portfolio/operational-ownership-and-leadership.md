@@ -4,7 +4,7 @@ description: A public-safe case study about frontline leadership and operational
 comments: false
 ---
 
-<section class="case-study-hero case-leadership"><p>Featured work · 06</p><h1>Operational Ownership &amp; Leadership</h1><p>A 14-week programme for division managers in a US facilities-services organisation.</p></section>
+<section class="case-study-hero case-leadership"><p>Featured work · 06</p><h1>Operational Ownership &amp; Leadership</h1><p>A 14-week program for division managers in a US facilities-services organisation.</p></section>
 
 <div class="case-study-facts"><div><span>Industry</span><strong>Facilities services</strong></div><div><span>Length</span><strong>14 weeks</strong></div><div><span>Focus</span><strong>Frontline leadership</strong></div></div>
 
@@ -14,6 +14,6 @@ Operational leadership depends on more than compliance. Managers need to hold st
 
 ## What I designed
 
-I designed a forum-based programme that moved from personal accountability to team standards, coaching, labour engagement, leadership, subcontractor governance, cross-training, urgency and resilience.
+I designed a forum-based program that moved from personal accountability to team standards, coaching, labour engagement, leadership, subcontractor governance, cross-training, urgency and resilience.
 
 Each week connected a practical leadership theme with reflection, peer discussion and a specific action participants could apply in their own teams.

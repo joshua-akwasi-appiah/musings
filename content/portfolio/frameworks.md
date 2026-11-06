@@ -6,7 +6,7 @@ comments: false
 
 <section class="case-study-hero case-frameworks"><p>Portfolio</p><h1>Frameworks and approaches</h1><p>Practical language can help people notice a pattern, have a better conversation and decide what to do next.</p></section>
 
-## Developed for learning programmes
+## Developed for learning programs
 
 <div class="framework-grid">
   <div class="framework-card-with-art"><img class="framework-art" src="../static/framework-leadership-trust.png" alt="An editorial illustration of a bridge" /><span>01</span><h3>Leadership and Trust</h3><p>A prompt for examining how leadership behaviour shapes trust, ownership and team confidence.</p></div>
