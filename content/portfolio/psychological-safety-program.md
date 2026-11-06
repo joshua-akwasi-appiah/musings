@@ -1,8 +1,6 @@
 ---
 title: Psychological Safety Program
 description: A learning program about trust, tension, decision-making and empowered teams.
-aliases:
-  - portfolio/psychological-safety-programme
 comments: false
 ---
 
