@@ -29,7 +29,7 @@ comments: false
 ## Featured work
 
 <div class="portfolio-projects" id="featured-work">
-  <a class="project-card project-ai" href="./ai-master-programme"><span class="project-number">01</span><span class="project-type">12 sessions · Internal programme</span><strong>AI Master Programme</strong><small>A staged programme designed to help people move from hesitation to practical AI adoption.</small><em>Read case study →</em></a>
+  <a class="project-card project-ai" href="./ai-master-programme"><span class="project-number">01</span><span class="project-type">12 sessions · Internal program</span><strong>The AI Master Program</strong><small>A staged program designed to help people move from hesitation to practical AI adoption.</small><em>Read case study →</em></a>
   <a class="project-card project-safety" href="./psychological-safety-programme"><span class="project-number">02</span><span class="project-type">17-week programme</span><strong>Psychological Safety</strong><small>A learning journey about trust, tension, decision-making and empowered teams.</small><em>Read case study →</em></a>
   <a class="project-card project-ownership" href="./ownership-mindset-programme"><span class="project-number">03</span><span class="project-type">14-week programme</span><strong>Ownership Mindset</strong><small>From waiting for direction to taking responsibility for what needs to be done.</small><em>Read case study →</em></a>
   <a class="project-card project-culture" href="./world-class-culture-programme"><span class="project-number">04</span><span class="project-type">4-week internal programme</span><strong>Building a World-Class Culture</strong><small>A focused programme on self-leadership, standards and working together.</small><em>Read case study →</em></a>
