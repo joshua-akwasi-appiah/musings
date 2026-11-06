@@ -1,6 +1,8 @@
 ---
 title: Building a World Class Culture
 description: A focused internal program on self-leadership, shared standards and teamwork.
+aliases:
+  - portfolio/world-class-culture-programme
 comments: false
 ---
 

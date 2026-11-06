@@ -1,6 +1,8 @@
 ---
 title: The AI Master Program
 description: A staged peer-learning program for practical AI adoption.
+aliases:
+  - portfolio/ai-master-programme
 comments: false
 ---
 

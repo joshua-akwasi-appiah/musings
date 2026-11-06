@@ -1,6 +1,8 @@
 ---
 title: Ownership Mindset Program
 description: A 14-week program about initiative, accountability and commitment at work.
+aliases:
+  - portfolio/ownership-mindset-programme
 comments: false
 ---
 
