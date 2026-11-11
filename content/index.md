@@ -26,6 +26,12 @@ comments: false
   </div>
 
   <div class="recent-notes-list">
+    <!-- Publishing checklist: add each new public note here first, keeping the newest note at the top. -->
+    <a class="recent-note-card" href="./learning/but-i-used-the-juice">
+      <span>Learning</span>
+      <strong>“But I Used the Juice”: The Dunning-Kruger Effect</strong>
+      <p>A conversation about an old dream, confidence, caution and the Dunning-Kruger effect.</p>
+    </a>
     <a class="recent-note-card" href="./learning/a-question-should-be-answered">
       <span>Learning</span>
       <strong>A Question Should Be Answered</strong>

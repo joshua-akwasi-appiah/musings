@@ -90,12 +90,14 @@ a.internal {
   display: none;
 }
 
-:root[reader-mode="on"] .sidebar.left .flex-component > div:not(:has(.readermode)) {
+// Reader mode still needs its two reading controls: the book exits focused
+// reading, while the sun/moon lets a reader choose the most comfortable theme.
+:root[reader-mode="on"] .sidebar.left .flex-component > div:not(:has(.readermode)):not(:has(.darkmode)) {
   display: none;
 }
 
 :root[reader-mode="on"] .sidebar.left .flex-component {
-  gap: 0;
+  gap: 0.4rem;
 }
 
 :root[reader-mode="on"] .center {
