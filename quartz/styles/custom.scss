@@ -79,6 +79,11 @@ a.internal {
   border-radius: 0.55rem;
   background: color-mix(in srgb, var(--light) 92%, transparent);
   box-shadow: 0 0.35rem 1.2rem rgb(30 26 22 / 12%);
+  // Keep the reader-mode button visible. The plugin normally fades both
+  // sidebars out, which made the only way to exit reader mode effectively
+  // disappear until the page was refreshed.
+  opacity: 1;
+  pointer-events: auto;
 }
 
 :root[reader-mode="on"] .sidebar.left > :not(.flex-component) {
