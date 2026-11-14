@@ -37,16 +37,6 @@ comments: false
       <strong>“But I Used the Juice”: The Dunning-Kruger Effect</strong>
       <p>A conversation about an old dream, confidence, caution and the Dunning-Kruger effect.</p>
     </a>
-    <a class="recent-note-card" href="./learning/a-question-should-be-answered">
-      <span>Learning</span>
-      <strong>A Question Should Be Answered</strong>
-      <p>What a dismissive reply to an obvious question can teach us about confidence, curiosity and learning.</p>
-    </a>
-    <a class="recent-note-card" href="./ideas-and-observations/an-opinion-is-not-a-decision">
-      <span>Ideas &amp; Observations</span>
-      <strong>An Opinion Is Not a Decision</strong>
-      <p>Why asking for someone’s perspective does not create an obligation to follow it.</p>
-    </a>
   </div>
 </section>
 
