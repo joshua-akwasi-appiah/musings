@@ -1,0 +1,25 @@
+{
+  "name": "mailing-list",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components.js"
+  },
+  "quartz": {
+    "name": "mailing-list",
+    "displayName": "Mailing List",
+    "description": "Newsletter signup for Musings through MailerLite.",
+    "version": "1.0.0",
+    "category": "component",
+    "defaultEnabled": false,
+    "components": {
+      "MailingList": {
+        "displayName": "Mailing List",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 15
+      }
+    }
+  }
+}

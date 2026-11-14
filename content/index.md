@@ -40,6 +40,15 @@ comments: false
   </div>
 </section>
 
+<section class="musings-home-signup" aria-labelledby="musings-home-signup-title">
+  <div>
+    <p class="musings-kicker">FROM THE GARDEN</p>
+    <h2 id="musings-home-signup-title">Keep in touch</h2>
+    <p>Get occasional notes when something new grows here. No noise; just ideas, questions and reflections worth returning to.</p>
+  </div>
+  <div class="ml-embedded" data-form="HMfSnR"></div>
+</section>
+
 ## Explore the garden
 
 <div class="garden-paths">
