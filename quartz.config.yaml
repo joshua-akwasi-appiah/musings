@@ -5,7 +5,9 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: umami
+    websiteId: b63a9306-e302-43d1-980b-626b4de14f9e
+    host: https://cloud.umami.is
   locale: en-US
   baseUrl: joshua-akwasi-appiah.github.io/musings
   ignorePatterns:
