@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">The Culture Loop</title>
+  <desc id="desc">An original diagram showing how leaders model behaviour, teams accept it, behaviours repeat, and culture becomes the environment everyone experiences.</desc>
+  <defs>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M 72 0 L 0 0 0 72" fill="none" stroke="#d9d2c8" stroke-width="2"/>
+    </pattern>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="8" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#3e362e"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="1500" fill="#fff8ed"/>
+  <rect width="1200" height="1500" fill="url(#grid)" opacity="0.78"/>
+
+  <text x="600" y="132" text-anchor="middle" fill="#3e362e" font-family="Georgia, serif" font-size="72" font-weight="700">The Culture Loop</text>
+  <text x="600" y="196" text-anchor="middle" fill="#5f5245" font-family="Arial, sans-serif" font-size="29">How everyday behaviour becomes the environment everyone experiences</text>
+
+  <circle cx="600" cy="750" r="336" fill="#f1ede6" stroke="#3e362e" stroke-width="5"/>
+  <circle cx="600" cy="750" r="210" fill="#d0a34d" stroke="#3e362e" stroke-width="5"/>
+
+  <path d="M525 423 C683 379 830 490 873 615" fill="none" stroke="#3e362e" stroke-width="10" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <path d="M927 676 C971 834 862 977 722 1014" fill="none" stroke="#3e362e" stroke-width="10" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <path d="M661 1072 C501 1113 360 1007 329 860" fill="none" stroke="#3e362e" stroke-width="10" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <path d="M273 797 C224 640 333 505 464 473" fill="none" stroke="#3e362e" stroke-width="10" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <g font-family="Arial, sans-serif" fill="#3e362e">
+    <rect x="412" y="267" width="376" height="135" rx="28" fill="#fff8ed" stroke="#3e362e" stroke-width="4"/>
+    <circle cx="462" cy="334" r="24" fill="#d0a34d"/>
+    <text x="507" y="325" font-size="28" font-weight="700">1. WHAT LEADERS</text>
+    <text x="507" y="362" font-size="28" font-weight="700">MODEL</text>
+
+    <rect x="838" y="572" width="276" height="135" rx="28" fill="#fff8ed" stroke="#3e362e" stroke-width="4"/>
+    <circle cx="887" cy="639" r="24" fill="#d0a34d"/>
+    <text x="931" y="630" font-size="27" font-weight="700">2. WHAT</text>
+    <text x="931" y="667" font-size="27" font-weight="700">TEAMS ACCEPT</text>
+
+    <rect x="412" y="1098" width="376" height="135" rx="28" fill="#fff8ed" stroke="#3e362e" stroke-width="4"/>
+    <circle cx="462" cy="1165" r="24" fill="#d0a34d"/>
+    <text x="507" y="1156" font-size="28" font-weight="700">3. WHAT GETS</text>
+    <text x="507" y="1193" font-size="28" font-weight="700">REPEATED</text>
+
+    <rect x="86" y="572" width="276" height="135" rx="28" fill="#fff8ed" stroke="#3e362e" stroke-width="4"/>
+    <circle cx="135" cy="639" r="24" fill="#d0a34d"/>
+    <text x="179" y="630" font-size="27" font-weight="700">4. WHAT</text>
+    <text x="179" y="667" font-size="27" font-weight="700">CULTURE BECOMES</text>
+  </g>
+
+  <g text-anchor="middle" fill="#3e362e" font-family="Arial, sans-serif">
+    <text x="600" y="688" font-size="36" font-weight="700">WHAT PEOPLE SEE</text>
+    <text x="600" y="738" font-size="36" font-weight="700">REWARDED</text>
+    <text x="600" y="800" font-size="31">becomes what feels normal</text>
+    <path d="M466 850 H734" stroke="#3e362e" stroke-width="4"/>
+    <text x="600" y="904" font-size="27">Openness · Ownership · Follow-through</text>
+    <text x="600" y="944" font-size="27">or Silence · Blame · Waiting</text>
+  </g>
+
+  <rect x="118" y="1316" width="964" height="92" rx="46" fill="#d0a34d" stroke="#3e362e" stroke-width="4"/>
+  <text x="600" y="1374" text-anchor="middle" fill="#3e362e" font-family="Arial, sans-serif" font-size="32" font-weight="700">DESIGN FOR THE BEHAVIOUR YOU WANT REPEATED</text>
+</svg>
