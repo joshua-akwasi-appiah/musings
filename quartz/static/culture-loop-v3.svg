@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1450" role="img" aria-labelledby="title desc">
+  <title id="title">The Culture Loop</title>
+  <desc id="desc">A two-circle diagram showing that what leaders model is accepted, repeated, and becomes culture.</desc>
+  <defs>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0V72" fill="none" stroke="#d9d2c8" stroke-width="2"/>
+    </pattern>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+      <path d="M0 0L12 6L0 12Z" fill="#3e362e"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="1450" fill="#fff8ed"/>
+  <rect width="1200" height="1450" fill="url(#grid)" opacity=".72"/>
+  <text x="600" y="130" text-anchor="middle" fill="#3e362e" font-family="Georgia, serif" font-size="74" font-weight="700">The Culture Loop</text>
+  <text x="600" y="190" text-anchor="middle" fill="#5f5245" font-family="Arial, sans-serif" font-size="28">How everyday behaviour becomes the environment everyone experiences</text>
+  <circle cx="600" cy="730" r="355" fill="#f1ede6" stroke="#3e362e" stroke-width="5"/>
+  <circle cx="600" cy="730" r="218" fill="#d0a34d" stroke="#3e362e" stroke-width="5"/>
+  <path d="M743 414 A335 335 0 0 1 916 587" fill="none" stroke="#3e362e" stroke-width="9" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <path d="M916 873 A335 335 0 0 1 743 1046" fill="none" stroke="#3e362e" stroke-width="9" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <path d="M457 1046 A335 335 0 0 1 284 873" fill="none" stroke="#3e362e" stroke-width="9" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <path d="M284 587 A335 335 0 0 1 457 414" fill="none" stroke="#3e362e" stroke-width="9" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <g fill="#3e362e" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="425" font-size="25" font-weight="700">1. WHAT LEADERS MODEL</text>
+    <text x="880" y="698" font-size="22" font-weight="700">2. WHAT TEAMS</text>
+    <text x="880" y="730" font-size="22" font-weight="700">ACCEPT</text>
+    <text x="600" y="1045" font-size="25" font-weight="700">3. WHAT GETS REPEATED</text>
+    <text x="320" y="698" font-size="22" font-weight="700">4. WHAT CULTURE</text>
+    <text x="320" y="730" font-size="22" font-weight="700">BECOMES</text>
+  </g>
+  <g fill="#3e362e" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="652" font-size="31" font-weight="700">WHAT PEOPLE SEE</text>
+    <text x="600" y="696" font-size="31" font-weight="700">REWARDED</text>
+    <text x="600" y="750" font-size="24">becomes what feels normal</text>
+    <path d="M470 786H730" stroke="#3e362e" stroke-width="4"/>
+    <text x="600" y="828" font-size="19">OPENNESS · OWNERSHIP</text>
+    <text x="600" y="857" font-size="19">FOLLOW-THROUGH</text>
+    <text x="600" y="888" font-size="17">or SILENCE · BLAME · WAITING</text>
+  </g>
+  <rect x="135" y="1240" width="930" height="88" rx="44" fill="#d0a34d" stroke="#3e362e" stroke-width="4"/>
+  <text x="600" y="1296" text-anchor="middle" fill="#3e362e" font-family="Arial, sans-serif" font-size="30" font-weight="700">DESIGN FOR THE BEHAVIOUR YOU WANT REPEATED</text>
+</svg>
