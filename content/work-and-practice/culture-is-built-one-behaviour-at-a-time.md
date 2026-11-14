@@ -35,7 +35,7 @@ That is one reason learning design matters to me. It is not only about helping p
 Because, eventually, those behaviours become the environment everyone experiences.
 
 <figure>
-  <img src="../static/culture-loop.svg?v=2" alt="A circular diagram titled The Culture Loop. It shows a cycle: what leaders model, what teams accept, what behaviours repeat, and the culture everyone experiences." />
+  <img src="../static/culture-loop.svg?v=3" alt="A circular diagram titled The Culture Loop. It shows a cycle: what leaders model, what teams accept, what behaviours repeat, and the culture everyone experiences." />
   <figcaption>The Culture Loop: what a team repeatedly sees becomes normal.</figcaption>
 </figure>
 
