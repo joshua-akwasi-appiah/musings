@@ -8,7 +8,7 @@ What would you do if you found out today that you had exactly twelve months to l
 
 Please, before you come for me, hear me out. I know this is a heavy question for a Saturday evening. But quick backstory on where this question is coming from.
 
-A friend, Janina, told me about a movie she watched recently. In the movie, a woman who had lived very carefully, saving, spending wisely and doing all the sensible things we are told to do so that one day we can enjoy the life we have worked for, finds out that she has twelve months to live.
+A friend, Janina (at this point, I do not think I have to explain where I get these names from), told me about a movie she watched recently. In the movie, a woman who had lived very carefully: saving, spending wisely and doing all the sensible things we are told to do so that one day we can enjoy the life we have worked for, finds out that she has twelve months to live.
 
 Interestingly, that discovery becomes her wake-up call to finally enjoy herself. She takes chances and starts doing the things she would normally have convinced herself were not worth it.
 
@@ -32,7 +32,7 @@ I learned to find pleasure in work. I learned to feel proud after being producti
 
 Yes, I could watch a movie, but only after I had done enough work.
 
-Every outing had to profit me in one way or another. I would tell myself, “Oh yes, I am going to go out. I am going to go to a party. I am going to have fun.” Then, on the day, I would convince myself that it was better to stay home and do some work, or do anything else, than sit in a car, go somewhere and then come back home.
+Every outing had to profit me in one way or another. I would tell myself, “Oh yes, I am going to go out. I am going to go to a party. I am going to have fun.” Then, on the day, I would convince myself that it was better to stay home and do some work, or do anything else, than to spend so much time commuting to wherever.
 
 I go for evening walks, so points to me for that. But my evening walks are normally accompanied by a podcast, an audiobook or maybe even a book I am reading while walking along the way.
 
@@ -40,7 +40,7 @@ Even commute time has to be productive. If I am sitting in a car, surely I shoul
 
 Please do not misunderstand me. I watched movies back then, and I still watch movies. I listen to music. I laugh. I enjoy things.
 
-But most of the time, those things had to be earned. There was always this quiet feeling that I had to deserve them first.
+But most of the time, there was this quiet feeling that I had to deserve them first.
 
 So, if I found out that I had twelve months to live, one of the things I would do differently is give myself more permission to enjoy life without first proving that I had earned it.
 
@@ -58,7 +58,7 @@ Recently, I read something by Dr. Bernie S. Siegel which I thought was tailor-ma
 >
 > — *Peace, Love and Healing*, Dr. Bernie S. Siegel
 
-All those things, planning, working hard, building for the future and being intentional, are important. But so is allowing ourselves to have fun. To be happy. To play. To enjoy a moment without first having to earn it.
+All those things are important: planning, working hard, building for the future and being intentional. But so is allowing ourselves to have fun. To be happy. To play. To enjoy a moment without first having to earn it.
 
 As I reflected more on this question while writing this, I realised that, for some people, the honest answer may be quite literally the opposite.
 
@@ -68,7 +68,7 @@ Maybe your twelve-month answer is to finally begin: to write the book, take the 
 
 The question is not asking all of us to live the same way. It is asking us to notice what is missing from our lives and to stop assuming that we have unlimited time to correct it.
 
-And oh, before I sign off, on an unrelated note, I did find the parenting book. And here is a quote that really pierced me:
+*And oh, before I sign off, on an unrelated note,* I did find the parenting book. And here is a quote that really pierced me:
 
 > “Our kids don’t usually lash out at us because they’re simply rude, or because we’re failures as parents. They usually lash out because they don’t yet have the capacity to regulate their emotional states and control their impulses. And they feel safe enough with us to know that they won’t lose our love, even when they’re at their worst.”
 >
@@ -78,7 +78,7 @@ Turns out I may not be the best uncle I thought I was. Maybe telling my nephew h
 
 If you missed that post, you can [[i-dont-even-care|read it here]].
 
-So yes, I end my musings here.
+I end my musings here.
 
 Let me know what you think. What would you do if you realised today that you only had twelve months to live?
 
