@@ -27,15 +27,15 @@ comments: false
 
   <div class="recent-notes-list">
     <!-- Publishing checklist: add each new public note here first, keeping the newest note at the top. -->
+    <a class="recent-note-card" href="./ideas-and-observations/fun-had-to-be-earned">
+      <span>Ideas &amp; Observations</span>
+      <strong>Fun Had to Be Earned</strong>
+      <p>A question about twelve months, the things we postpone and the permission to enjoy life now.</p>
+    </a>
     <a class="recent-note-card" href="./ideas-and-observations/i-dont-even-care">
       <span>Ideas &amp; Observations</span>
       <strong>I Don’t Even Care</strong>
       <p>A three-year-old, a lost cheat code and a reminder that people are not buttons.</p>
-    </a>
-    <a class="recent-note-card" href="./learning/but-i-used-the-juice">
-      <span>Learning</span>
-      <strong>“But I Used the Juice”: The Dunning-Kruger Effect</strong>
-      <p>A conversation about an old dream, confidence, caution and the Dunning-Kruger effect.</p>
     </a>
   </div>
 </section>
