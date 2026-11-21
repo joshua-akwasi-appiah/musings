@@ -8,11 +8,11 @@ What would you do if you found out today that you had exactly twelve months to l
 
 Please, before you come for me, hear me out. I know this is a heavy question for a Saturday evening. But quick backstory on where this question is coming from.
 
-A friend, Janina (at this point, I do not think I have to explain where I get these names from), told me about a movie she watched recently. In the movie, a woman who had lived very carefully: saving, spending wisely and doing all the sensible things we are told to do so that one day we can enjoy the life we have worked for, finds out that she has twelve months to live.
+A friend, Jahnina (at this point, I do not think I have to explain where I get these names from. 😅), told me about a movie she watched recently. In the movie, a woman who had lived very carefully: saving, spending wisely and doing all the sensible things we are told to do so that one day we can enjoy the life we have worked for, finds out that she has twelve months to live.
 
 Interestingly, that discovery becomes her wake-up call to finally enjoy herself. She takes chances and starts doing the things she would normally have convinced herself were not worth it.
 
-When Janina told me about the movie, I found it interesting. And my question to her was: what would you do if you found out today that you had twelve months to live?
+When Jahnina told me about the movie, I found it interesting. And my question to her was: what would you do if you found out today that you had twelve months to live?
 
 She answered, and then she put it back to me.
 
